@@ -1,0 +1,27 @@
+{
+  "name": "notes-app-back-end-lebih-rapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuzubaidillah/notes-app-back-end-lebih-rapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuzubaidillah/notes-app-back-end-lebih-rapi/issues"
+  },
+  "homepage": "https://github.com/zuzubaidillah/notes-app-back-end-lebih-rapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "eslint": "^7.32.0",
+    "joi": "^17.4.2",
+    "nanoid": "^3.1.25",
+    "nodemon": "^2.0.12"
+  }
+}
